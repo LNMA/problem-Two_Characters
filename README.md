@@ -24,14 +24,14 @@ Ex:
     
 2-output
 
-    bebeeeb
-    eaeeea
-    babab
-    bebeeeb
-    eeee
-    eeefe
-    eeefe
-    eaeeea
-    babab
+    bebeeeb     \\false
+    eaeeea      \\false
+    babab       \\true
+    bebeeeb     \\false
+    eeee        \\false
+    eeefe       \\false
+    eeefe       \\false
+    eaeeea      \\false
+    babab       \\true
     5
     
